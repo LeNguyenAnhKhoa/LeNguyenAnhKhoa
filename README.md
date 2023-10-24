@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeNguyenAnhKhoa
-- 👀 I’m interested in LOL
-- 🌱 I’m currently learning LOL
-- 💞️ I’m looking to collaborate on LOL
+- 👀 I’m interested in AI, CP
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on everyone who want to learn AI
 - 📫 How to reach me https://www.facebook.com/AtlandLe/
 
 <!---
