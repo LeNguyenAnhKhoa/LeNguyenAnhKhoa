@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @LeNguyenAnhKhoa
-- 👀 I’m interested in AI, CP
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on everyone who want to learn AI
 - 📫 How to reach me linkedin.com/in/khoa-lê-b07624269
 
 <!---
